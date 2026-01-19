@@ -1171,6 +1171,144 @@ Note
 
 
 
+## Conclusion
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+:::: {.mybox}
+
+::: {.mybox-header}
+Conclusion
+:::
+
+::: {.mybox-body}
+
+* Robust and straightforward general implementation of a NN-PGD
+  * Interpretable
+  * Benefits from all recent developments in machine learning
+* Surrogate modelling of parametrised PDE solution
+  * Promising results on simple toy case
+  * Shape variability taken into account
+
+:::: {style='margin-top: 1.7em;'}
+::::
+
+:::
+
+::::
+
+:::
+
+::: {.column width="45%"}
+
+:::: {.mybox}
+
+::: {.mybox-header}
+Perspectives for patient-specific applications
+:::
+
+::: {.mybox-body}
+
+* Personalised shape-informed digital-twins
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](Figures/Movies/BiAngle.mov){.absolute height=130 loop="true" autoplay=true}
+
+:::
+
+::: {.column width="4%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+### +
+
+:::: {style='margin-top: 4em;'}
+::::
+
+:::
+
+::: {.column width="45%"}
+
+![](Figures/Movies/Reduced+Full_kinematics.mp4){.absolute height=130 loop="true" autoplay=true}
+
+
+:::
+
+::::
+
+:::
+
+::::
+:::
+
+::::
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+:::: {.mybox}
+
+::: {.mybox-header}
+Prospective applications
+:::
+
+::: {.mybox-body}
+* Digital twin for 
+  * real-time haptic feedback (*e.g.,* robotic surgery, *in silico* training)
+  * shape-optimisation (of 3D printed organs, personalised prosthesis, etc.)
+    * Inexpensive shape derivative of mechanical quantities
+:::
+ 
+::::
+
+:::
+
+::: {.column width="50%"}
+
+{{< iconify fa-solid:newspaper >}} &nbsp; **Papers**: [@skardovaFiniteElementNeural2025;@daby-seesaramFiniteElementNeural2025]
+
+:::: {style='margin-top: -1em;'}
+::::
+
+:::: {.columns}
+
+::: {.column width="49%"}
+
+![image](https://alexandredabyseesaram.github.io/Resources/Images/NeuROM_ter.svg){ width=100%}
+[![PyPI Downloads](https://img.shields.io/pypi/dm/NeuROM-Py.svg?label=PyPI%20downloads)](
+https://pypi.org/project/NeuROM-Py/)
+
+:::
+
+::: {.column width="49%"}
+
+:::: {style='margin-top: 1em;'}
+::::
+
+|![](Figures/QR_code.svg)|
+|:--:| 
+|[Github page](https://alexandredabyseesaram.github.io/)|
+
+:::
+
+::::
+
+
+
+:::
+
+::::
+
+
 
 
 
