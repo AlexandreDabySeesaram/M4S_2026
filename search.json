@@ -126,6 +126,13 @@
     "text": "Multi-level training\n\n\n\n\n\nMulti-level training convergence\n\n\n\n\n\n\n\n\nStrategy\n\n\n\nThe interpretability of the NN allows\n\nGreat transfer learning capabilities\n\nStart with coarse (cheap) training\nFollowed by fine tuning, refining all modes\n\n\nExtends the idea put forward by (Giacoma et al., 2015)\n\n\n\n\n\n\n\nNote\n\n\n\nThe structure of the Tensor decomposition is kept throughout the multi-level training\nLast mode of each level is irrelevant by construction\n\nIt is removed before passing onto the next refinement level"
   },
   {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "Hybridisation of Finite Element Neural-Networks and the Proper Generalised Decomposition for surrogate modelling",
+    "section": "Conclusion",
+    "text": "Conclusion\n\n\n\n\nConclusion\n\n\n\nRobust and straightforward general implementation of a NN-PGD\n\nInterpretable\nBenefits from all recent developments in machine learning\n\nSurrogate modelling of parametrised PDE solution\n\nPromising results on simple toy case\nShape variability taken into account\n\n\n\n\n\n\n\n\n\n\nPerspectives for patient-specific applications\n\n\n\nPersonalised shape-informed digital-twins\n\n\n\nVideo\n\n\n\n\n+\n\n\n\n\nVideo\n\n\n\n\n\n\n\n\n\n\nProspective applications\n\n\n\nDigital twin for\n\nreal-time haptic feedback (e.g., robotic surgery, in silico training)\nshape-optimisation (of 3D printed organs, personalised prosthesis, etc.)\n\nInexpensive shape derivative of mechanical quantities\n\n\n\n\n\n\n   Papers: (Daby-Seesaram et al., 2025; Škardová et al., 2025)\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\nGithub page"
+  },
+  {
     "objectID": "index.html#references",
     "href": "index.html#references",
     "title": "Hybridisation of Finite Element Neural-Networks and the Proper Generalised Decomposition for surrogate modelling",
